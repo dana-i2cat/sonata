@@ -1,0 +1,8 @@
+[submodule "son-catalogue-repos"]
+	path = son-catalogue-repos
+	url = https://github.com/adrian-rosello/son-catalogue-repos.git
+	branch = demo
+[submodule "son-gkeeper"]
+	path = son-gkeeper
+	url = https://github.com/adrian-rosello/son-gkeeper.git
+	branch = demo
